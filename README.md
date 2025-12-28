@@ -7,5 +7,5 @@
 
 ## 📫 Contact Me
 - Email: idrees@idrees.pk  
-- GitHub: https://github.com/idrees
+- GitHub: https://github.com/idreesmath
 
