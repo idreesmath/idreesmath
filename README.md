@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Idrees
 
-🌐 AI Developer | 🧠 Spec-Driven Development | 🤖 Claude Code Practitioner  
+🌐 AI Developer | 🧠 Spec-Driven Development | ✴️ Claude Code Practitioner  
 
 📍 Quetta, Pakistan  
 🔗 Website: https://www.idrees.pk  
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated software developer with a strong interest in **spec-driven development** and **AI-assisted programming**.  
+I am a motivated software developer with a strong interest in **spec-driven development**.  
 I enjoy building clean, reliable, and well-documented systems using modern tools and clear specifications.
 
 I focus on:
@@ -28,7 +28,7 @@ I focus on:
 
 **Development Practices**
 - 🧩 Spec-Driven Development  
-- 🤖 Claude Code (AI-assisted development)  
+- 🤖 Claude Code
 - 🧪 Clean & maintainable code  
 - 📄 Documentation-first approach  
 
