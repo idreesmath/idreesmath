@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Idrees
 
-🌐 Agentic AI Developer | 🧠 Spec-Driven Development | ✴️ Claude Code Practitioner  
+🧠 Spec-Driven Development | ✴️ Claude Code Practitioner  
 
 📍 Quetta, Pakistan  
 🔗 Website: https://www.idrees.pk  
